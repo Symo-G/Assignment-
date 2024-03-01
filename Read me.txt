@@ -1,0 +1,13 @@
+Accident Severity Prediction Model Summary
+
+This codebase includes a Python script that deploys a Multiple Linear Regression model to forecast accident severity. The model incorporates several independent variables, including injuries, fatalities, vehicle types, and other factors, to predict the quantity of accidents (the dependent variable).
+
+Prerequisites
+Ensure the following dependencies are installed on your system before executing the code;
+
+Python 3.x
+NumPy
+pandas
+matplotlib
+These libraries can be installed using pip.
+pip install numpy pandas matplotlib
